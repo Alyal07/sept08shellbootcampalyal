@@ -10,7 +10,7 @@
 		"schema": [],
 		"typeProperties": {
 			"schema": "dbo",
-			"table": "watermarktable"
+			"table": "data_source_table"
 		}
 	}
 }
